@@ -26,8 +26,8 @@ const Header = ({ color }) => {
     <React.Fragment>
 
       <div className="announcement-banner bg-[#302871] py-3">
-        <a href="https://argoproj.github.io/argocon21/">
-          Join us at ArgoCon '21 virtually on Dec 8th
+        <a href="https://events.linuxfoundation.org/argocon/">
+          ArgoCon '22 CFP and Registration now open! Join us in the SF Bay Area or virtually 9/19 - 9/21
           <svg class="HoverArrow" width="10" height="10" viewBox="0 0 10 10" aria-hidden="true">
             <g fill-rule="evenodd">
             <path class="HoverArrow__linePath" d="M0 5h7"></path>
